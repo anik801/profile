@@ -1,9 +1,9 @@
 {
-  "name": "portfolio",
+  "name": "profile",
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "homepage": "https://anik801.github.io/portfolio",
+  "homepage": "https://anik801.github.io/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
