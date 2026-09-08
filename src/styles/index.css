@@ -477,17 +477,13 @@ ol {
     flex: 1 1 100%;
   }
 
-  .sidebar-nav ul {
-    flex-direction: row;
-    flex-wrap: wrap;
-    gap: 1rem;
+  .sidebar-nav {
+    display: none;
   }
 
   .sidebar-links {
     margin-top: 0;
-    flex-direction: row;
-    flex-wrap: wrap;
-    gap: 1rem;
+    width: 100%;
   }
 
   .main {
